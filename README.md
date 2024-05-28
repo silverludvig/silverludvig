@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Quanle (Ludvig) 👋
 
-🚀 **Data Engineer | Machine Learning Enthusiast | Full-Stack Developer**
+🚀 **Data Engineer | Machine Learning Enthusiast | Python Developer**
 
-I'm a passionate data engineer and machine learning enthusiast with a knack for developing scalable data pipelines, deploying robust big data infrastructures, and creating insightful BI dashboards. My expertise spans across various technologies, including Apache Kafka, Spark, TensorFlow, AWS, and Kubernetes. Here’s a glimpse into some of my notable projects:
+I'm a passionate data engineer and machine learning enthusiast who excels at building scalable data pipelines, deploying strong big data infrastructures, and creating relevant business intelligence dashboards. My knowledge spans multiple technologies, including Apache Kafka, Spark, TensorFlow, AWS, and Kubernetes. Here's a look at some of my notable projects:
 
 ## Projects
 
@@ -47,4 +47,4 @@ For organizational purposes, my GitHub profile is set to private, showcasing onl
 
 ---
 
-Always eager to learn and take on new challenges in the realms of data engineering, machine learning, and full-stack development. Let's connect and build something amazing!
+Always keen to learn and tackle new challenges in the fields of data engineering, machine learning, and Python development. Let's connect and build something amazing 😄
