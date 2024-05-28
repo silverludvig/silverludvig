@@ -43,7 +43,7 @@ For organizational purposes, my GitHub profile is set to private, showcasing onl
 
 ## Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ludvigdong)
-- ✉️ [Your Email](ludvigdong@outlook.com)
+- ✉️ ludvigdong@outlook.com
 
 ---
 
