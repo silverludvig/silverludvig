@@ -24,11 +24,11 @@ I'm a passionate data engineer and machine learning enthusiast who excels at bui
 
 ### Real-Time Fraud Detection System
 - **Technologies:** Apache Kafka, Spark, Kubernetes, TensorFlow, AWS Lambda, AWS Kinesis, AWS S3, PostgreSQL, MongoDB, PowerBI, Looker, Jenkins, GitHub Actions
-- **Description:** Leveraged Apache Kafka and Spark on Kubernetes, integrated TensorFlow models with AWS Lambda, and utilized AWS Kinesis and S3 for real-time data streaming and storage. Designed data models in PostgreSQL and MongoDB, and created dashboards in PowerBI and Looker. CI/CD pipelines set up with Jenkins and GitHub Actions.
+- **Description:** Leveraged Apache Kafka and Spark on Kubernetes, integrated TensorFlow models with AWS Lambda, and utilized AWS Kinesis and S3 for real-time data streaming and storage. Designed data models in PostgreSQL and MongoDB, and created dashboards in PowerBI and Looker. CI/CD pipelines set up with GitHub Actions.
 
 ### Healthcare Big Data Infrastructure
 - **Technologies:** Hadoop (HDFS, Yarn, Hive, Spark), Kubernetes, Ansible, Terraform, Kerberos, Apache Ranger, MongoDB, AWS S3, Apache Airflow
-- **Description:** Managed a Hadoop ecosystem on Kubernetes using Ansible and Terraform, implemented security with Kerberos and Apache Ranger, and handled patient data in MongoDB and AWS S3. Automated data workflows with Apache Airflow.
+- **Description:** Managed a Hadoop ecosystem on Kubernetes using Ansible and Terraform and handled patient data in MongoDB and AWS S3. Automated data workflows with Apache Airflow.
 
 ### E-commerce Sales Data Pipeline
 - **Technologies:** Python, Apache Airflow, MySQL, PostgreSQL, PowerBI, AWS QuickSight, AWS S3, AWS Glue, AWS Redshift, AWS Athena, AWS CloudWatch
