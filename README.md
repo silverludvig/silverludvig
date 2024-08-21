@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Quanle (Ludvig) 👋
 
-🚀 **Data Engineer | Machine Learning Enthusiast | Python Developer**
+🚀 **Data Engineer | Machine Learning Engineer | Python Developer**
 
-I'm a driven data engineer and machine learning engineer who excels at developing scalable data pipelines, deploying robust big data infrastructures. Here are two of my most notable projects: change this!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I'm a driven data engineer and machine learning engineer who excels at developing scalable data pipelines, deploying robust big data infrastructures. Here are two of my most notable projects:
 
 ## Projects
 
