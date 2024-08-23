@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 Here are two of my personal projects:
 
-### Healthcare Big Data Infrastructure
-- **Technologies:** Hadoop (HDFS, Yarn, Hive, Spark), AWS EKS, Ansible, Terraform, MongoDB, AWS S3, Apache Airflow
-- **Description:** Set up and managed a Hadoop ecosystem on AWS EKS, using Ansible and Terraform to automate everything. Worked on securing and processing large healthcare data with MongoDB and AWS S3, and streamlined data workflows with Apache Airflow.
+### AWS-Driven Big Data Infrastructure for Healthcare
+- **Technologies:** Amazon RDS (Relational Database Service), Amazon Elastic MapReduce (Spark),Terraform (for infrastructure automation),Python (for workflow automation)
+- **Description:** This project focuses on building and managing a scalable infrastructure for processing structured healthcare data using AWS services. Amazon RDS is the central relational database, responsible for securely storing and managing healthcare data with high availability and compliance with regulations. For complex data processing and analytics, AWS EMR with Apache Spark is used to efficiently handle large datasets. Terraform is leveraged to automate the provisioning and configuration of AWS infrastructure, ensuring that everything is consistent and easily repeatable. Python scripts are employed to automate the data workflows, such as extracting data from RDS, processing it in Spark on EMR, and then loading the processed data back into RDS.
 
 ### Gothenburg Tram Navigator
 - **Technologies:** Python, Django
