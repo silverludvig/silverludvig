@@ -16,16 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Quanle (Ludvig) 👋
 
-🚀 **Data Engineer | Machine Learning Engineer | Python Developer**
-
-I'm a driven data engineer and machine learning engineer who excels at developing scalable data pipelines, deploying robust big data infrastructures. Here are two of my most notable projects:
-
-## Projects
+Here are two of my personal projects:
 
 ### Healthcare Big Data Infrastructure
-- **Technologies:** Hadoop (HDFS, Yarn, Hive, Spark), Kubernetes, Ansible, Terraform, MongoDB, AWS S3, Apache Airflow
+- **Technologies:** Hadoop (HDFS, Yarn, Hive, Spark), AWS EKS, Ansible, Terraform, MongoDB, AWS S3, Apache Airflow
 - **Description:** Set up and managed a Hadoop ecosystem on AWS EKS, using Ansible and Terraform to automate everything. Worked on securing and processing large healthcare data with MongoDB and AWS S3, and streamlined data workflows with Apache Airflow.
-
 
 ### Gothenburg Tram Navigator
 - **Technologies:** Python, Django
@@ -40,4 +35,4 @@ For organizational purposes, my GitHub profile is set to private, showcasing onl
 
 ---
 
-Let's connect and build something amazing 😄
+Let's build something amazing 😄
