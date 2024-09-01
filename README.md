@@ -19,12 +19,18 @@ Here are some ideas to get you started:
 Here are two of my personal projects:
 
 ### AWS-Driven Big Data Infrastructure for Healthcare
-- **Technologies:** Amazon RDS (Relational Database Service), Amazon Elastic MapReduce (Spark),Terraform (for infrastructure automation),Python (for workflow automation)
-- **Description:** This project focuses on building and managing a scalable infrastructure for processing structured healthcare data using AWS services. Amazon RDS is the relational database, responsible for securely storing and managing healthcare data with high availability. For complex data processing, AWS EMR with Apache Spark is used to efficiently handle large datasets. Terraform is leveraged to automate the provisioning and configuration of AWS infrastructure, ensuring that everything is consistent and easily repeatable. Python scripts are employed to automate the data workflows, such as extracting data from RDS, processing it in Spark on EMR, and then loading the processed data back into RDS.
+- **Technologies:** Amazon RDS: A relational database that stores structured healthcare data. Amazon EMR (Elastic MapReduce) is used in conjunction with Apache Spark to process and analyze large datasets. Terraform automates the provisioning and configuration of AWS services. Python is used for scripting and automating data workflows, focusing on data extraction, processing, and analysis. Ansible: automating monitoring and logging configurations across the infrastructure. Data Governance: ensure the proper management, quality, and security of healthcare data.
+- **Description:** Built a scalable AWS-based infrastructure to analyze healthcare costs using Terraform, Jenkins, and Ansible, with a focus on patient demographics, medical conditions, and treatment details. Leveraged Amazon RDS (Amazon Relational Database Service) for secure data storage and implemented data governance practices to ensure the proper management, quality, and security of healthcare data. Employed Apache Spark and AWS EMR for large-scale data analysis, automating data processing workflows with Python, and implemented CI/CD pipelines with Jenkins to manage the deployment of infrastructure and data workflows. Automated monitoring and logging configurations with Ansible and centralized logging using AWS CloudWatch to maintain system health and track performance metrics.
 
 ### Gothenburg Tram Navigator
 - **Technologies:** Python, Django
-- **Description:** Built a Python/Django web app for optimizing tram routes, helping commuters find the fastest and shortest paths.
+- **Description:** 1. Developed Python scripts for information extraction by collecting and combining data from various sources and formats, creating structured JSON files to build a comprehensive database for further application use.
+
+2. Implemented graph algorithms and object-oriented design concepts to build a library for analyzing transport networks, focusing on graph representation, shortest path algorithms, and visualization.
+
+3. Built a web application using Django, integrating front-end and back-end components to display transport networks, calculate shortest routes, and enhance user interaction with dynamic data visualizations.
+
+4. Utilized libraries like unittest to test functions and ensure code reliability, and employed property-based testing with the library hypothesis to validate code behavior across a wide range of randomized inputs
 
 ## Note
 For organizational purposes, my GitHub profile is set to private, showcasing only my most relevant projects. Additional repositories and information are available upon request.
