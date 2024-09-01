@@ -24,13 +24,7 @@ Here are two of my personal projects:
 
 ### Gothenburg Tram Navigator
 - **Technologies:** Python, Django
-- **Description:** 1. Developed Python scripts for information extraction by collecting and combining data from various sources and formats, creating structured JSON files to build a comprehensive database for further application use.
-
-2. Implemented graph algorithms and object-oriented design concepts to build a library for analyzing transport networks, focusing on graph representation, shortest path algorithms, and visualization.
-
-3. Built a web application using Django, integrating front-end and back-end components to display transport networks, calculate shortest routes, and enhance user interaction with dynamic data visualizations.
-
-4. Utilized libraries like unittest to test functions and ensure code reliability, and employed property-based testing with the library hypothesis to validate code behavior across a wide range of randomized inputs
+- **Description:** Developed Python scripts for information extraction by collecting and combining data from various sources and formats, creating structured JSON files to build a comprehensive database for further application use.Implemented graph algorithms and object-oriented design concepts to build a library for analyzing transport networks, focusing on graph representation, shortest path algorithms, and visualization. Built a web application using Django, integrating front-end and back-end components to display transport networks, calculate shortest routes, and enhance user interaction with dynamic data visualizations. Utilized libraries like unittest to test functions and ensure code reliability, and employed property-based testing with the library hypothesis to validate code behavior across a wide range of randomized inputs
 
 ## Note
 For organizational purposes, my GitHub profile is set to private, showcasing only my most relevant projects. Additional repositories and information are available upon request.
